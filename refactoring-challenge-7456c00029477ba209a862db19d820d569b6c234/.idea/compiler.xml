@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Email-Sender-Refactoring-Kata" />
+        <module name="guilded-rose" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Email-Sender-Refactoring-Kata" target="1.5" />
+      <module name="guilded-rose" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

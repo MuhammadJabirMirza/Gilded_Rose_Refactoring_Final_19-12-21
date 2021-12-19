@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03-email-sender-java/java/Email-Sender-Refactoring-Kata.iml" filepath="$PROJECT_DIR$/03-email-sender-java/java/Email-Sender-Refactoring-Kata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-gilded-rose-java/guilded-rose.iml" filepath="$PROJECT_DIR$/02-gilded-rose-java/guilded-rose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/refactoring-challenge-7456c00029477ba209a862db19d820d569b6c234.iml" filepath="$PROJECT_DIR$/.idea/refactoring-challenge-7456c00029477ba209a862db19d820d569b6c234.iml" />
+    </modules>
+  </component>
+</project>
